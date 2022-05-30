@@ -14,15 +14,10 @@
 With the divine grace of the almighty,
 inviting you and your family to elder sister's wedding to be held on **11th June at [Diamond Palace](https://goo.gl/maps/Xw372J735w6YQKdM7), Tikamgarh from 7:00 PM** onwards.
 
-- [Download](https://github.com/vinitshahdeo/vinitshahdeo/raw/master/docs/Sonali%20%26%20Gagan.pdf) the Invitation card
+- [Download](https://github.com/rjnitt/roso.github.io/blob/master/invitation/rohit_wedding_invite.png) the Invitation card
 
 - Find [venue](https://goo.gl/maps/Xw372J735w6YQKdM7) on Google map
 
-- Visit the [website](https://roso.github.io/) for more details
-
-- See the Facebook [post](https://www.facebook.com/vinit.shahdeo/posts/3521599654622390)
-
-- See the [Tweet](https://twitter.com/Vinit_Shahdeo/status/1328570280705482752)
 
 ```js
 
