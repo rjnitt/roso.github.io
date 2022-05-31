@@ -14,7 +14,7 @@
 With the divine grace of the almighty,
 inviting you and your family to elder sister's wedding to be held on **11th June at [Diamond Palace](https://goo.gl/maps/Xw372J735w6YQKdM7), Tikamgarh from 7:00 PM** onwards.
 
-- [Download](https://github.com/rjnitt/roso.github.io/blob/master/invitation/rohit_wedding_invite.png) the Invitation card
+- [Download](https://github.com/rjnitt/roso.github.io/raw/master/invitation/roso-wedding-invite.pdf) the Invitation card
 
 - Find [venue](https://goo.gl/maps/Xw372J735w6YQKdM7) on Google map
 
