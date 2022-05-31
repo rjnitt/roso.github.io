@@ -1,14 +1,14 @@
 
-<p align="center"><a href="https://roso.github.io/"><img src="./assets/wedding.gif" width="150px" height="150px"/></a></p>
-<h1 align="center"><a href="https://roso.github.io/">Wedding Invitation</a> :ring: <br> <br> SAVE THE DATE: 11th June, 2022 <br> <a href="https://roso.github.io/">https://roso.github.io/</a></h1>
+<p align="center"><a href="https://rjnitt.github.io/roso.github.io/"><img src="./assets/wedding.gif" width="150px" height="150px"/></a></p>
+<h1 align="center"><a href="https://rjnitt.github.io/roso.github.io/">Wedding Invitation</a> :ring: <br> <br> SAVE THE DATE: 11th June, 2022 <br> <a href="https://rjnitt.github.io/roso.github.io/">https://rjnitt.github.io/roso.github.io/</a></h1>
 
-[![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/vinitshahdeo/Wedding-Invitation?logo=github)](https://roso.github.io/) [![Netlify Status](https://api.netlify.com/api/v1/badges/e945f101-f434-45e6-8c33-df855c6b2082/deploy-status)](https://app.netlify.com/sites/sonali/deploys) [![GitHub license](https://img.shields.io/github/license/vinitshahdeo/Wedding-Invitation?logo=github)](https://github.com/vinitshahdeo/Wedding-Invitation)
+[![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/vinitshahdeo/Wedding-Invitation?logo=github)](https://rjnitt.github.io/roso.github.io/) [![Netlify Status](https://api.netlify.com/api/v1/badges/e945f101-f434-45e6-8c33-df855c6b2082/deploy-status)](https://app.netlify.com/sites/sonali/deploys) [![GitHub license](https://img.shields.io/github/license/vinitshahdeo/Wedding-Invitation?logo=github)](https://github.com/vinitshahdeo/Wedding-Invitation)
 
 ## Wedding Invitation :ring:
 
 <details>
   <summary><strong>View Invitation</strong></summary>
-  <a href="https://roso.github.io/"><img src="./assets/img/sonali.jpeg" /></a>
+  <a href="https://rjnitt.github.io/roso.github.io/"><img src="./assets/img/sonali.jpeg" /></a>
 </details>
 
 With the divine grace of the almighty,
@@ -34,7 +34,7 @@ const weddingVenue = new Location('Diamond Palace, Tikamgarh');
 
     // your presence is requested
     (new Wedding()).acceptInvitation(
-        window.open('https://roso.github.io/')
+        window.open('https://rjnitt.github.io/roso.github.io/')
     );
 })();
 
